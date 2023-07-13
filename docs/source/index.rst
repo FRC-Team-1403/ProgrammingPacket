@@ -1,17 +1,17 @@
-Welcome to Lumache's documentation!
+Welcome to the 1403 Programming Packet
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+First let's start with the very basics of programming. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+When writing code every minor detail matters. 
+Whether that be a missing semicolon at the end of a line or wrong captialization. 
+Either of these will result in errors; which could end up being difficult to spot.
+When writing code all code is executed sequentially. Each statement does exactly what is says, no ifs or buts.
+
 
 .. note::
 
-   This project is under active development.
+   This packet is currently being written. 
 
 Contents
 --------
