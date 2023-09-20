@@ -4,6 +4,7 @@ Basic Types
 a `char` can be used to represent a single character.
 an `int` type represents an whole number which can be either positive or negative.
 a `float` or `double` can be used to represent a number with decimals. 
+a `String` type can be used to store sentences and words.
 
 .. note::
     | Consider the following:
@@ -16,5 +17,5 @@ a `float` or `double` can be used to represent a number with decimals.
 Casting can be done like this: `float num = (float) int_num`, what you are doing here is converting one type to another. 
 
 Programming Challenges:
-- Input 2 numbers and divide them, print the result (make sure to try 1/2)
-- 
+#. Input 2 numbers and divide them, print the result (make sure to try 1/2)
+#. 
