@@ -17,6 +17,6 @@ Contents
 --------
 
 .. toctree::
-
+   Basic Types
    usage
    api
