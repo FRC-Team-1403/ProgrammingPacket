@@ -6,9 +6,10 @@ an `int` type represents an whole number which can be either positive or negativ
 a `float` or `double` can be used to represent a number with decimals. 
 
 .. note::
-    | int a = 2; int b = 3;
-    | int c = a/b;
-    | c is actually equal to 0.
+    | Consider the following:
+    | ```int a = 2; int b = 3;
+    | int c = a/b;```
+    | You would expect c to be 1 because of rounding, but c is actually equal to 0.
     | This is caused by integer truncation when divding; The computer will chop off the decmials.
     | Using a float or double or casting to one of these will resolve the issue.
 
