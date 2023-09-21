@@ -1,10 +1,10 @@
 Basic Types
 =====
 
-a ``char`` can be used to represent a single character.
-an ``int`` type represents an whole number which can be either positive or negative.
-a ``float`` or ``double`` can be used to represent a number with decimals. 
-a ``String`` type can be used to store sentences and words.
+| a ``char`` can be used to represent a single character.
+| an ``int`` type represents an whole number which can be either positive or negative.
+| a ``float`` or ``double`` can be used to represent a number with decimals. 
+| a ``String`` type can be used to store sentences and words.
 
 .. note::
     | Consider the following:
