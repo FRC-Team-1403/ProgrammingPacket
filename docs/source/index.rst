@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
    Basic Types
+   Arrays
    usage
    api
