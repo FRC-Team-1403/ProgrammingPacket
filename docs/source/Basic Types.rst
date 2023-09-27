@@ -21,4 +21,4 @@ Casting can be done like this: ``float num = (float) int_num``, what you are doi
 
 | Programming Challenges:  
 | 1. Input 2 numbers and divide them, print the result (make sure to try 1/2)
-| 2. 
+| 2. Input a your name and print it out, as an added challenge you can manipuate the string
