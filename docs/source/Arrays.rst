@@ -13,12 +13,14 @@ What is an array?
     The first index of an array is actually 0, not 1.
 
 | Here is a visual example. 
+
 .. list-table:: Example array
     * - 0, "Hello"
     * - 1, "World!"
     * - 2, "Coding"
     * - 3, "is"
     * - 4, "cool."
+
 
 | The above array would be the representation an array of strings
 
