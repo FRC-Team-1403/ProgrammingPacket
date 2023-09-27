@@ -15,11 +15,20 @@ What is an array?
 | Here is a visual example. 
 
 .. list-table:: Example array
-    * - 0, "Hello"
-    * - 1, "World!"
-    * - 2, "Coding"
-    * - 3, "is"
-    * - 4, "cool."
+    :widths: 25 25 50
+    :header-rows: 1
+
+    * - 0
+      - 1
+      - 2 
+      - 3
+      - 4
+    * - "Hello"
+      - "World!"
+      - "Coding"
+      - "is"
+      - "cool."
+
 
 
 | The above array would be the representation an array of strings
