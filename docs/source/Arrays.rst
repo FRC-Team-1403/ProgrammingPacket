@@ -10,7 +10,7 @@ What is an array?
 | Each elements has a specific index assigned to it.
 
 .. note::
-    The first index of an array is actually 0, not 1.
+    The first index of an array is actually ``0``, not ``1``.
 
 | Here is a visual example. 
 
